@@ -150,10 +150,6 @@ export default function FirstPage(props) {
           </p>
         </div>
         <div class="heading">
-          <p style={{ marginLeft: "20%" }}>
-            You have successfully submitted your CMS credentials!
-            <br />
-          </p>
           <p style={{ marginLeft: "24%" }}>
             Do not forget to reply "Done" to you CMS Chatbot
           </p>
